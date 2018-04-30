@@ -1,0 +1,42 @@
+a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    display: inline-block;
+    }
+    i {
+      display: inline-block;
+      font-size: 1.5em;
+      color: white;
+    }
+   .topnav{
+    display: inline;
+    color: black;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    background-color: black;
+    font-size: 1em;
+    word-spacing: 100px;
+    }
+   .topnav:hover {
+    background-color: black;
+   }
+h1{
+font-style: bold; 
+font-size: 50px; 
+text-align: center; 
+}
+h3{ 
+
+  text-align: center; 
+
+} 
+ img{
+  border-radius: 16px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
